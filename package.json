@@ -1,0 +1,22 @@
+{
+  "name": "sports-community-search",
+  "version": "1.0.0",
+  "description": "A site for searching sports communities and applying to them.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nzm17/sports-community-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nzm17/sports-community-search/issues"
+  },
+  "homepage": "https://github.com/Nzm17/sports-community-search#readme",
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  }
+}
